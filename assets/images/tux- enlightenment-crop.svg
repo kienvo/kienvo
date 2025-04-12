@@ -1087,4 +1087,12 @@
            rdf:resource="http://creativecommons.org/ns#Distribution" /><cc:requires
            rdf:resource="http://creativecommons.org/ns#Notice" /><cc:requires
            rdf:resource="http://creativecommons.org/ns#Attribution" /><cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" /></cc:License></rdf:RDF></metadata></svg>
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" /></cc:License></rdf:RDF></metadata>
+	<animate
+	attributeName="height"
+	begin="0s"
+	dur="1s"
+	from="5mm"
+	to="30.714106mm"
+	repeatCount="1" />
+</svg>
