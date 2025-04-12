@@ -1,3 +1,3 @@
-![tux penguin enlightenment](assets/images/tux-%20enlightenment-crop.svg)
+![tux penguin enlightenment](assets/images/tux-enlightenment-animation.svg)
 
 Tux bless you!
